@@ -51,8 +51,8 @@ https://guilhermepadilha.vercel.app
 
 ### GitHub
 
-https://github.com/
+https://github.com/padilhx
 
 ### LinkedIn
 
-https://linkedin.com/
+[https://linkedin.com/](https://www.linkedin.com/in/guilhermepadilhajobins/)
