@@ -124,6 +124,7 @@ export default function TechSection() {
             'Análise de Sistemas',
             'Trabalho em Equipe',
             'Debugging e Identificação de Falhas',
+            'Integração de projetos com modelos de IA',
           ].map((skill, index) => (
             <motion.span
               key={skill}
